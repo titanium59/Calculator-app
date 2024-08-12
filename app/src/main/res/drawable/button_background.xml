@@ -1,0 +1,5 @@
+<!-- res/drawable/button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/light_grey" />
+    <!-- No corner radius defined, so the button will have sharp corners -->
+</shape>
